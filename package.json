@@ -1,0 +1,22 @@
+{
+  "name": "continuation-local-storage-hapijs-example",
+  "version": "0.0.0",
+  "description": "example of continuation local storage within hapijs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Peklak <thomas.peklak@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.13",
+    "cls-bluebird": "^1.0.0",
+    "continuation-local-storage": "^3.1.4",
+    "good": "^5.1.2",
+    "good-console": "^4.1.0",
+    "hapi": "^8.2.0",
+    "lodash": "^3.5.0",
+    "request": "^2.53.0",
+    "uuid": "^2.0.1"
+  }
+}
